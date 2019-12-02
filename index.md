@@ -5,4 +5,4 @@
 * Golang
 
 ## Kubernetes Journey
-* [Kubernete.io](https://kubernetes.io/)
+* [Kubernetes.io](https://kubernetes.io/)
